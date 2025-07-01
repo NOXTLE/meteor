@@ -3,20 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint ."
   },
-=======
- "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
-},
->>>>>>> a425633d00b83eaf3c24f2a0ea541a004fdac5fd
   "dependencies": {
     "@chakra-ui/react": "^3.21.0",
     "@emotion/react": "^11.14.0",

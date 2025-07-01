@@ -32,11 +32,7 @@
     "lucide-react": "^0.525.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-<<<<<<< HEAD
-    "react-native-typing-animation": "^0.1.7",
-=======
     
->>>>>>> a425633d00b83eaf3c24f2a0ea541a004fdac5fd
     "react-router-dom": "^6.30.1",
     "react-scrollable-feed": "^2.0.3",
     "socket.io-client": "^4.8.1",

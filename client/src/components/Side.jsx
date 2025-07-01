@@ -8,8 +8,7 @@ import {
 import { IoIosArrowDown } from "react-icons/io";
 import { Button } from "@/components/ui/button";
 import { IoMdClose } from "react-icons/io";
-import NotificationBadge from "react-notification-badge";
-import { Effect } from "react-notification-badge";
+
 import {
   Drawer,
   DrawerClose,
